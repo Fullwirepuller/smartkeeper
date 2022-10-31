@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/login.jpg</file>
+        <file>image/cloud.png</file>
+        <file>image/fan_0.png</file>
+        <file>image/fan_1.png</file>
+        <file>image/light_0.png</file>
+        <file>image/light_1.png</file>
+        <file>image/thunder.png</file>
+        <file>image/video_0.png</file>
+        <file>image/video_1.png</file>
+        <file>image/wind.png</file>
+        <file>image/bk.jpg</file>
+        <file>image/question.png</file>
+        <file>image/recording_0.png</file>
+        <file>image/recording_1.png</file>
+        <file>image/big_rain.png</file>
+        <file>image/nosun.png</file>
+        <file>image/small_rain.png</file>
+        <file>image/sunny.png</file>
+        <file>image/red.jpeg</file>
+        <file>image/led_on.png</file>
+        <file>image/fan_off.png</file>
+        <file>image/fan_on.png</file>
+        <file>image/video_off.png</file>
+        <file>image/video_on.png</file>
+        <file>image/led_off.png</file>
+        <file>image/weather_forecast.png</file>
+        <file>image/microphone_off.png</file>
+        <file>image/microphone_on.png</file>
+    </qresource>
+</RCC>

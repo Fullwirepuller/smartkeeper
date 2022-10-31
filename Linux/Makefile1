@@ -1,0 +1,17 @@
+COSS_COMPLIER=
+CC=$(COSS_COMPLIER)gcc
+OBJS=main.o speak_text.o
+LIBPATH=-lpthread -luart -lv4l2 -ljpeg -L ./lib/
+
+main:$(OBJS)
+	$(CC) $^ -lpthread -o $@ $(LIBPATH)
+
+%.o:%.c
+	$(CC) -I ./include/ -c $< -o $@
+
+clean:
+	rm main *.o 
+
+
+
+
